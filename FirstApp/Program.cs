@@ -22,7 +22,8 @@ namespace FirstApp
             //switchStatemnet switchStatemnet = new switchStatemnet();
             //forloop forloop = new forloop();
             //tryparse tryparse = new tryparse();
-            fizzBuzzTask fizzBuzzTask = new fizzBuzzTask();
+            //fizzBuzzTask fizzBuzzTask = new fizzBuzzTask();
+            stringConcate stringConcate = new stringConcate();
             
             Console.ReadLine();
         }

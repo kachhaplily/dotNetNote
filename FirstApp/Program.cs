@@ -17,7 +17,8 @@ namespace FirstApp
             //booleanDataType booleanDataType = new booleanDataType();
             //varConst varConst = new varConst();
             //InputOutPut inputOutPut = new InputOutPut();
-            ifelseStatement ifelseStatement = new ifelseStatement();
+            //ifelseStatement ifelseStatement = new ifelseStatement();
+            ternaryOprator ternaryOprator = new ternaryOprator();
             
             Console.ReadLine();
         }

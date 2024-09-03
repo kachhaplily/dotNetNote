@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="booleanDataType.cs" />
+    <Compile Include="fizzBuzzTask.cs" />
     <Compile Include="forloop.cs" />
     <Compile Include="ifelseStatement.cs" />
     <Compile Include="InputOutPut.cs" />

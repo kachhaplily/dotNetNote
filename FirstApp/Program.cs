@@ -21,7 +21,8 @@ namespace FirstApp
             //ternaryOprator ternaryOprator = new ternaryOprator();
             //switchStatemnet switchStatemnet = new switchStatemnet();
             //forloop forloop = new forloop();
-            tryparse tryparse = new tryparse();
+            //tryparse tryparse = new tryparse();
+            fizzBuzzTask fizzBuzzTask = new fizzBuzzTask();
             
             Console.ReadLine();
         }

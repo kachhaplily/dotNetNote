@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace basic
+namespace FirstApp
 {
     internal class Program
     {
@@ -16,7 +16,9 @@ namespace basic
             //textBasedDataType textBasedDataType = new textBasedDataType();
             //booleanDataType booleanDataType = new booleanDataType();
             //varConst varConst = new varConst();
-            InputOutPut inputOutPut = new InputOutPut();
+            //InputOutPut inputOutPut = new InputOutPut();
+            ifelseStatement ifelseStatement = new ifelseStatement();
+            
             Console.ReadLine();
         }
     }

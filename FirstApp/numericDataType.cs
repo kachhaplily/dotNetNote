@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace basic
+namespace FirstApp
 {
     internal class numericDataType
     {

@@ -23,7 +23,8 @@ namespace FirstApp
             //forloop forloop = new forloop();
             //tryparse tryparse = new tryparse();
             //fizzBuzzTask fizzBuzzTask = new fizzBuzzTask();
-            stringConcate stringConcate = new stringConcate();
+            //stringConcate stringConcate = new stringConcate();
+            array array = new array();
             
             Console.ReadLine();
         }

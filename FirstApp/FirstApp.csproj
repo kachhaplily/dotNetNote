@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="array.cs" />
     <Compile Include="booleanDataType.cs" />
     <Compile Include="fizzBuzzTask.cs" />
     <Compile Include="forloop.cs" />

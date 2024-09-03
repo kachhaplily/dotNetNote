@@ -18,7 +18,10 @@ namespace FirstApp
             //varConst varConst = new varConst();
             //InputOutPut inputOutPut = new InputOutPut();
             //ifelseStatement ifelseStatement = new ifelseStatement();
-            ternaryOprator ternaryOprator = new ternaryOprator();
+            //ternaryOprator ternaryOprator = new ternaryOprator();
+            //switchStatemnet switchStatemnet = new switchStatemnet();
+            //forloop forloop = new forloop();
+            tryparse tryparse = new tryparse();
             
             Console.ReadLine();
         }

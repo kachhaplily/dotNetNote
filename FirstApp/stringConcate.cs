@@ -26,6 +26,11 @@ namespace FirstApp
             string fullName4 = String.Join(" ", names);
             Console.WriteLine(fullName4);
 
+            for (int i = 0; i < firstName.Length; i++)
+            {
+                Console.WriteLine(i);
+            }
+
 
 
         }

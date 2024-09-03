@@ -49,6 +49,7 @@
     <Compile Include="numericDataType.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ternaryOprator.cs" />
     <Compile Include="textBasedDataType.cs" />
     <Compile Include="varConst.cs" />
   </ItemGroup>

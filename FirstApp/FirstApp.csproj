@@ -48,6 +48,7 @@
     <Compile Include="dictonary.cs" />
     <Compile Include="fizzBuzzTask.cs" />
     <Compile Include="forloop.cs" />
+    <Compile Include="function.cs" />
     <Compile Include="ifelseStatement.cs" />
     <Compile Include="InputOutPut.cs" />
     <Compile Include="list.cs" />

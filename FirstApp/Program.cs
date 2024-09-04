@@ -27,7 +27,8 @@ namespace FirstApp
             //array array = new array();
             //list list = new list();
             //dictonary dictonary = new dictonary();
-            oddEven oddEven = new oddEven();
+            //oddEven oddEven = new oddEven();
+            function function = new function();
             
             Console.ReadLine();
         }

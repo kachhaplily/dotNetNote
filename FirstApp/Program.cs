@@ -28,7 +28,8 @@ namespace FirstApp
             //list list = new list();
             //dictonary dictonary = new dictonary();
             //oddEven oddEven = new oddEven();
-            function function = new function();
+            //function function = new function();
+            trycatch trycatch = new trycatch();
             
             Console.ReadLine();
         }

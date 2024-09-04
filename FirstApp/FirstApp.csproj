@@ -60,6 +60,7 @@
     <Compile Include="switchStatemnet.cs" />
     <Compile Include="ternaryOprator.cs" />
     <Compile Include="textBasedDataType.cs" />
+    <Compile Include="trycatch.cs" />
     <Compile Include="tryparse.cs" />
     <Compile Include="varConst.cs" />
   </ItemGroup>

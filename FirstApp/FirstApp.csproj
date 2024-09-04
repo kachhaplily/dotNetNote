@@ -49,6 +49,7 @@
     <Compile Include="forloop.cs" />
     <Compile Include="ifelseStatement.cs" />
     <Compile Include="InputOutPut.cs" />
+    <Compile Include="list.cs" />
     <Compile Include="numericDataType.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

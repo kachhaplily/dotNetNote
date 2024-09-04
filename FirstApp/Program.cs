@@ -24,7 +24,8 @@ namespace FirstApp
             //tryparse tryparse = new tryparse();
             //fizzBuzzTask fizzBuzzTask = new fizzBuzzTask();
             //stringConcate stringConcate = new stringConcate();
-            array array = new array();
+            //array array = new array();
+            list list = new list();
             
             Console.ReadLine();
         }

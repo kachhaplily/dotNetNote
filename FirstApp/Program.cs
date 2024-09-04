@@ -11,7 +11,7 @@ namespace FirstApp
         static void Main(string[] args)
         {
             Console.WriteLine("basic c#");
-           
+
             //numericDataType numericData = new numericDataType();
             //textBasedDataType textBasedDataType = new textBasedDataType();
             //booleanDataType booleanDataType = new booleanDataType();
@@ -25,7 +25,9 @@ namespace FirstApp
             //fizzBuzzTask fizzBuzzTask = new fizzBuzzTask();
             //stringConcate stringConcate = new stringConcate();
             //array array = new array();
-            list list = new list();
+            //list list = new list();
+            //dictonary dictonary = new dictonary();
+            oddEven oddEven = new oddEven();
             
             Console.ReadLine();
         }

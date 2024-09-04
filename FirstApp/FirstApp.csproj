@@ -45,12 +45,14 @@
   <ItemGroup>
     <Compile Include="array.cs" />
     <Compile Include="booleanDataType.cs" />
+    <Compile Include="dictonary.cs" />
     <Compile Include="fizzBuzzTask.cs" />
     <Compile Include="forloop.cs" />
     <Compile Include="ifelseStatement.cs" />
     <Compile Include="InputOutPut.cs" />
     <Compile Include="list.cs" />
     <Compile Include="numericDataType.cs" />
+    <Compile Include="oddEven.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="stringConcate.cs" />

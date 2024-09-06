@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A0BA2801-F9D4-46BB-8F82-15235392E2EF}</ProjectGuid>
+    <ProjectGuid>{CFBC0BB5-F6DC-4394-8F70-DAC5B4C88F46}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FirstApp</RootNamespace>
-    <AssemblyName>FirstApp</AssemblyName>
+    <RootNamespace>SecondProject</RootNamespace>
+    <AssemblyName>SecondProject</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>FirstApp.accessModifierThree</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,32 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="accessModifier.cs" />
-    <Compile Include="accessModifierThree.cs" />
-    <Compile Include="accessModifierTwo.cs" />
-    <Compile Include="array.cs" />
-    <Compile Include="booleanDataType.cs" />
-    <Compile Include="defaultConstructor.cs" />
-    <Compile Include="dictonary.cs" />
-    <Compile Include="fizzBuzzTask.cs" />
-    <Compile Include="forloop.cs" />
-    <Compile Include="function.cs" />
-    <Compile Include="ifelseStatement.cs" />
-    <Compile Include="InputOutPut.cs" />
-    <Compile Include="list.cs" />
-    <Compile Include="numericDataType.cs" />
-    <Compile Include="oddEven.cs" />
-    <Compile Include="perameterizedConstructor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="staticConstructor.cs" />
-    <Compile Include="stringConcate.cs" />
-    <Compile Include="switchStatemnet.cs" />
-    <Compile Include="ternaryOprator.cs" />
-    <Compile Include="textBasedDataType.cs" />
-    <Compile Include="trycatch.cs" />
-    <Compile Include="tryparse.cs" />
-    <Compile Include="varConst.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

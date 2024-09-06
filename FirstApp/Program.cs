@@ -29,7 +29,7 @@ namespace FirstApp
             //dictonary dictonary = new dictonary();
             //oddEven oddEven = new oddEven();
             //function function = new function();
-            trycatch trycatch = new trycatch();
+            //trycatch trycatch = new trycatch();
             
             Console.ReadLine();
         }

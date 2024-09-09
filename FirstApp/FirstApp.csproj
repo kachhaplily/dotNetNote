@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>FirstApp.childOverride</StartupObject>
+    <StartupObject>FirstApp.result</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="abstractMethod.cs" />
     <Compile Include="accessModifier.cs" />
     <Compile Include="accessModifierThree.cs" />
     <Compile Include="accessModifierTwo.cs" />

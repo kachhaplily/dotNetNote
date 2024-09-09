@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>FirstApp.methodOverload</StartupObject>
+    <StartupObject>FirstApp.childOverride</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,7 @@
     <Compile Include="accessModifierTwo.cs" />
     <Compile Include="array.cs" />
     <Compile Include="booleanDataType.cs" />
+    <Compile Include="childOverride.cs" />
     <Compile Include="defaultConstructor.cs" />
     <Compile Include="dictonary.cs" />
     <Compile Include="fizzBuzzTask.cs" />
@@ -62,6 +63,7 @@
     <Compile Include="methodOverload.cs" />
     <Compile Include="numericDataType.cs" />
     <Compile Include="oddEven.cs" />
+    <Compile Include="ParentOverride.cs" />
     <Compile Include="perameterizedConstructor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

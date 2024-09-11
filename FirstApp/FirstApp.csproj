@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>FirstApp.result</StartupObject>
+    <StartupObject>FirstApp.enumDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -55,11 +55,15 @@
     <Compile Include="childOverride.cs" />
     <Compile Include="defaultConstructor.cs" />
     <Compile Include="dictonary.cs" />
+    <Compile Include="enumDemo.cs" />
     <Compile Include="fizzBuzzTask.cs" />
     <Compile Include="forloop.cs" />
     <Compile Include="function.cs" />
     <Compile Include="ifelseStatement.cs" />
     <Compile Include="InputOutPut.cs" />
+    <Compile Include="InterfaceEmbandedClass.cs" />
+    <Compile Include="interfaceTest.cs" />
+    <Compile Include="InterfaceTest2.cs" />
     <Compile Include="list.cs" />
     <Compile Include="methodOverload.cs" />
     <Compile Include="numericDataType.cs" />
